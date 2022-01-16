@@ -1,0 +1,8 @@
+/.nuget
+/.vs
+/Database/.vs
+/Database/bin
+/Database/obj
+/Entities/.vs
+/Entities/bin
+/Entities/obj

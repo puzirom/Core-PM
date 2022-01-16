@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\PUZI004\.nuget\packages\greenpipes\3.0.0\lib\netstandard2.0\GreenPipes.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\PUZI004\.nuget\packages\masstransit\6.0.2\lib\netstandard2.0\MassTransit.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\PUZI004\.nuget\packages\masstransit.rabbitmq\6.0.2\lib\netstandard2.0\MassTransit.RabbitMqTransport.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\PUZI004\.nuget\packages\rabbitmq.client\5.1.2\lib\netstandard2.0\RabbitMQ.Client.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\PUZI004\.nuget\packages\mstest.testframework\2.0.0\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\PUZI004\.nuget\packages\mstest.testframework\2.0.0\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\PUZI004\.nuget\packages\moq\4.13.1\lib\netstandard2.0\Moq.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\PUZI004\.nuget\packages\fluentassertions\5.10.0\lib\netcoreapp2.1\FluentAssertions.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\PUZI004\.nuget\packages\horizon.general.contracts\3.4.1218.1\lib\netstandard2.0\Horizon.General.Contracts.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\PUZI004\.nuget\packages\microsoft.extensions.dependencyinjection\3.1.6\lib\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=583486bd_002Da5ad_002D4113_002Da759_002D73b316b1ada6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Consume_WithMultiplePayments_ShadowModeIsUsed" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A2FEF924-AB35-4096-87B4-2125428EDC17::.NETCoreApp,Version=v3.1::PaymentMatching.UnitTests.Worker.MessageConsumers.CustomerPaymentReceivedConsumerTest.Consume_WithMultiplePayments_ShadowModeIsUsed&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Profiling/Configurations/=2/@EntryIndexedValue">&lt;data&gt;&lt;HostParameters type="LocalHostParameters" /&gt;&lt;Argument type="StandaloneArgument"&gt;&lt;Arguments IsNull="False"&gt;&lt;/Arguments&gt;&lt;FileName IsNull="False"&gt;&lt;/FileName&gt;&lt;WorkingDirectory IsNull="False"&gt;&lt;/WorkingDirectory&gt;&lt;Scope&gt;&lt;ProcessFilters /&gt;&lt;/Scope&gt;&lt;/Argument&gt;&lt;Info type="TimelineInfo" /&gt;&lt;CoreOptions type="CoreOptions"&gt;&lt;CoreTempPath IsNull="False"&gt;&lt;/CoreTempPath&gt;&lt;RemoteEndPoint IsNull="False"&gt;&lt;/RemoteEndPoint&gt;&lt;AdditionalEnvironmentVariables /&gt;&lt;/CoreOptions&gt;&lt;HostOptions type="HostOptions"&gt;&lt;HostTempPath IsNull="False"&gt;&lt;/HostTempPath&gt;&lt;ReprofileDisableReason&gt;LaunchedByReSharperUnitTestRunner&lt;/ReprofileDisableReason&gt;&lt;/HostOptions&gt;&lt;/data&gt;</s:String></wpf:ResourceDictionary>
